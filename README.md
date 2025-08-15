@@ -1,26 +1,20 @@
-![logo](https://github.com/karuneshGupta47/karuneshGupta47/blob/main/linkdin%20banner.png)
+![logo](https://github.com/karuneshGupta47/karuneshGupta47/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Karunesh Gupta</h1>
 <h3 align="center">A am Passionate about Cybersecurity & Research .</h3>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW10ZTAzaXh2czNra3M5MnBtZXNqeGw2OTh6b29wazJqODd4Z3BvZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/200.webp">
 
-- 🔭 I’m currently working on **Preparing for GATE exam**
-
-- 🌱 I’m currently learning **GATE exam preperation**
+- 🌱 I’m currently learning on **GATE exam preperation*
 
 - 👯 I’m looking to collaborate on [II2s](https://vision.hack2skill.com/dashboard/user_public_profile/?userId=676381b0c2171d5a113ba413&utm_source=hack2skill&utm_medium=homepage)
 
 - 👨‍💻 All of my Information are available at [https://sunilkirana.my.canva.site/karunesh-gupta](https://sunilkirana.my.canva.site/karunesh-gupta)
 
-- 📝 I regularly write articles on [Research , tool (Canva )](Research , tool (Canva ))
-
-- 💬 Ask me about **Problem solver**
-
 - 📫 How to reach me **karuneshgupta786@gmail.com**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAGoMzUtOyQ/t1SDk4iZ9Bl0m8CCJ5v1dA/view?utm_content=DAGoMzUtOyQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5fa814aec1](https://www.canva.com/design/DAGoMzUtOyQ/t1SDk4iZ9Bl0m8CCJ5v1dA/view?utm_content=DAGoMzUtOyQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5fa814aec1)
 
-- ⚡ Fun fact **I am funny person but other people think I am a serious person 😂 .**
+- ⚡ Fun fact **I am a funny person but other people think I am a serious person 😂 .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
