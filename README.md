@@ -1,3 +1,4 @@
+![logo](https://github.com/karuneshGupta47/karuneshGupta47/blob/main/linkdin%20banner.png)
 <h1 align="center">Hi 👋, I'm Karunesh Gupta</h1>
 <h3 align="center">A am Passionate about Cybersecurity & Research .</h3>
 
